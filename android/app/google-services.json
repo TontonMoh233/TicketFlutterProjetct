@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26731453001",
+    "project_id": "ticketproject-8e666",
+    "storage_bucket": "ticketproject-8e666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26731453001:android:374b246be351cd40203d98",
+        "android_client_info": {
+          "package_name": "com.ticketpro.com.ticketpromali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT6kKDLVJByU0ZtIhukwECZAampLubN8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
